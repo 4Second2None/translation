@@ -1,3 +1,3 @@
 # translation
-translation
-These files if translated from english to chinese. Just for fun!!!
+
+These files is translated from english to chinese. Just for fun!!!
